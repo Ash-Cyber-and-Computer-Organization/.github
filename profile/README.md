@@ -36,8 +36,16 @@ To expand **Ash** into a **global conglomerate** with multiple branches, each do
 </p>
 
 - 🚀 **Full-Stack Web Development** – Building scalable web applications.
+- 📱 **App Development** – Crafting user-friendly mobile applications.
+- 🎨 **Front & Backend Web Design** – Creating visually appealing and efficient websites.
 - 🏗 **AI & Machine Learning** – Creating intelligent solutions for complex problems.
 - ⚙ **Blockchain & Smart Contracts** – Engineering decentralized future solutions.
+
+### 🎥 **Creative & Analytical Expertise**
+- 🎬 **Video Editing** – Producing high-quality video content for various platforms.
+- 📈 **Forex Analysis** – Leveraging data analytics for strategic market insights.
+- 🤖 **Prompt Engineering** – Optimizing AI-generated responses for efficiency.
+- 🖥 **Computer Consultancy** – Providing expert IT solutions for businesses and individuals.
 
 ### 📡 **Research & Innovation**
 - 🤖 **Artificial Intelligence & Automation**
@@ -50,7 +58,7 @@ To expand **Ash** into a **global conglomerate** with multiple branches, each do
 
 👨‍💻 **Founder & Head of Ash Cyber & Computer**  
 [**Contractor-X**](https://github.com/Contractor-x) 🔥   
-👨‍💻 **Founder % Co-Head of Organization**  
+👨‍💻 **Founder & Co-Head of Organization**  
 [**Da-Korede**](https://github.com/da-korede) ⚡  
 
 ---
@@ -58,9 +66,9 @@ To expand **Ash** into a **global conglomerate** with multiple branches, each do
 ## 🏆 **Our Projects & Repositories**
 
 🚀 **Highlighted Projects:**
-<!-- - 🛡 **Advanced Cyber Defense Systems** – Real-time AI-powered cyber defense._ -->
 - 🔥 **AI-Driven Trading Bots** – High-frequency trading & market analysis.
-<!-- 📡 **Blockchain & Smart Contracts** – Secure and scalable decentralized applications. -->
+- 🎬 **Automated Video Editing Tools** – AI-powered content creation.
+- 📱 **Cross-Platform Mobile Apps** – Seamless digital experiences for all users.
 
 🔍 **Explore More:** [Check Our Repositories](https://github.com/Ash-Cyber-and-Computer?tab=repositories)
 
@@ -82,9 +90,7 @@ We are actively **looking for passionate developers, cybersecurity experts, AI r
 We are open to sponsorships and partnerships with like-minded organizations and investors looking to support cutting-edge innovations. Join us in shaping the **future of technology and cybersecurity.**
 
 📩 **Email us at:** [ashcybertech@gmail.com](mailto:ashcybertech@gmail.com)  
-<!--💼 **LinkedIn:** [Ash Cyber & Computer](https://linkedin.com/company/ash-cyber-and-computer)  
-🐦 **Twitter/X:** [@AshCyberTech](https://twitter.com/AshCyberTech)  
--->
+
 ---
 
 🚀 **“Beauty from ashes, innovation from chaos—we are Ash.”** 🔥
