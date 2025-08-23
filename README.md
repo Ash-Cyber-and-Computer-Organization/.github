@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="../assets/cover.png" alt="ASH cover picture" width="300"/>
-</p>
+
+  <img src="cover.png" alt="ASH cover picture" width="300"/>
 
 # Welcome to ASH CYBER & COMPUTER Software Development Department
 
