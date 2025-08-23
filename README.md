@@ -1,7 +1,7 @@
 
-  <img src="cover.png" alt="ASH cover picture" width="300"/>
-
 # Welcome to ASH CYBER & COMPUTER Software Development Department
+
+ <img src="cover.png" alt="ASH cover picture" width="300"/>
 
 ## About ASH C & C
 
