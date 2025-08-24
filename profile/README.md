@@ -73,7 +73,7 @@ We’re actively seeking new team members in these areas:
 - Technical Support
 - Project Management
 - IT Audit & Compliance
-
+- Product Manager 
 ## Leadership & Key Members
 
 **Founder & Head of Ash Cyber & Computer**  
